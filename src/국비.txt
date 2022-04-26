@@ -1,0 +1,13 @@
+국비 프론트 6개월 하루에 8시간
+프로젝트(3개) 3달
+java, 웹(html, css, javascript, db, jsp), spring 1달, 안드로이드
+
+4시간
+
+html, css, javascript (웹표준) 10일
+
+html, css, javascript(웹표준) -> node.js -> express -> http프로토콜 -> restAPI -> express Framework
+-> db ->  리액트, Vue -> 타입스크립트 (6개월)
+
+java -> html, css, javascript(웹표준) -> jsp&servlet -> http프로토콜 -> DB -> spring Framework
+-> restAPI -> spring Boot -> spring Boot 라이브러리 사용법 -> 리눅스OS -> AWS

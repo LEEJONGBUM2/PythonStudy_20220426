@@ -1,0 +1,29 @@
+{
+    "user_mst": [
+        {
+            "usercode": "1",
+            "email": "dafads",
+            "name": "23432",
+            "username": "dfdf",
+            "password": "233"
+        },
+        {
+            "usercode": "2",
+            "email": "23432ddd",
+            "name": "32432",
+            "username": "fdf",
+            "password": "434"
+        }
+    ],
+    "user_dtl":[
+        {
+            "usercode": "1",
+            "phone": "010-5133-4268"
+        },
+        {
+            "usercode": "2",
+            "phone": "010-5133-4269"
+        }
+    ] 
+    
+}
